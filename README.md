@@ -2,7 +2,11 @@
 
 ### Project Overview
 This project involve 3 machine algorithms (Linear, multiple linear and polynomial regression ) ,for predicting CO2 Emissions base on cars features such as Cylinders, Engine Size and Fuel Consumption.
+[Viz](LinearRegression)
 
+
+<img width="571" height="455" alt="LinearRegression" src="https://github.com/user-attachments/assets/1520f7ed-466a-45b4-a4f3-b621d26458b0" />
+<img width="571" height="455" alt="PolyRegression" src="https://github.com/user-attachments/assets/b24730a2-c302-46f2-bfad-66e1106260c9" />
 
 ### Data
 The primary data source used for the machine learning algorithm is the 'Fuel.CSV' which contained all detailed information about the CO2 Emmissions of different cars
@@ -17,8 +21,8 @@ Data Source [Download file here](https://cf-courses-data.s3.us.cloud-object-stor
 The data is clean with no missing values
 
 ### Exploratory Data Analysis
-EDA involve exploring the key independent varaible which can have possitive correlation with  with the dependent variable 'CO2 Emmissions'
-ploting of regression plots using Matplotlip and Seaborn to evalute linear relationships between variables.
+EDA involve exploring the key independent varaible which can have possitive correlation  with the dependent variable 'CO2 Emmissions'
+ploting of regression plots of the training data using Matplotlip and Seaborn to evalute linear relationships between variables.
 
 ### Machine Learning Algorithms
 Algorithms involved Regression
