@@ -41,7 +41,7 @@ Included 4 model evaluation techniques
 4) R-squared (R²)
 
 ### Results
-The results of the predictions all models was examined, evaluated and compared amongst each other. It showed that the best performing model is Multiple Linear Regression with the lowest MSE and highest R-squared
+The results of the predictionso of all models was examined, evaluated and compared amongst each other. It showed that the best performing model is Multiple Linear Regression with the lowest MSE and highest R-squared
 
 ### Recommendations
 Based on the results, I recommend implementing the Multiple Linear Regression Model for any applications related to CO2 Emmissions produced by cars.
